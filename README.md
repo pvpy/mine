@@ -13,6 +13,6 @@ To be defined.
 
 # Further activities
 
-To be contined...
+To be continued...
 
 > :copyright: Philippe YARD 
